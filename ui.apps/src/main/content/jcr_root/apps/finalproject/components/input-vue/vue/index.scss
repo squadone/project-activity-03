@@ -1,0 +1,18 @@
+.input-vue{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    color: #767676;
+
+    input{
+        width: 100%;
+        border: 2px solid #AAAAAA;
+        outline: 0;
+        border-radius: 5px;
+        color: #767676;
+
+        &:focus{
+            outline: 0;
+        }
+    }
+}
