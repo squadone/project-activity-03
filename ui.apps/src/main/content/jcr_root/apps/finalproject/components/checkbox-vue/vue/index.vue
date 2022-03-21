@@ -1,5 +1,5 @@
 <template>
-  <div class="checkbox-vue">
+  <div class="checkbox-vue" id="ckeckbox">
       <input type="checkbox" :name="field">
       <label :for="field" >{{field}}</label>
   </div>
