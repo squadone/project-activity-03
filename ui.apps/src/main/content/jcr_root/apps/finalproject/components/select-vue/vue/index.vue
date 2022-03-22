@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="select-vue">
       <label :for="label">{{label}}</label>
 
         <select :name="label" :id="`${label}-id`">
