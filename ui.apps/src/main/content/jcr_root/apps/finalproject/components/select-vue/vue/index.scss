@@ -1,0 +1,15 @@
+.select-vue{
+    display: flex;
+    flex-direction: column;
+
+    label{
+        font-size: 14px;
+        color: #AAAAAA;
+    }
+
+    select{
+        color: #AAAAAA;
+        border: solid 2px #AAAAAA;
+        border-radius: 4px;
+    }
+}
